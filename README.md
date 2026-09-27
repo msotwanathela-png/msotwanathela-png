@@ -1,6 +1,8 @@
 # Hi, I'm Msotwana 👋🏾
 
-### Psychology graduate → Data Analytics 📊
+### Psychology 🎓 | Data 📊 | People 🧠
+
+**Exploring how data can help us understand people, behaviour and business.**
 
 I'm interested in the space where **people, behaviour and data meet**.
 
@@ -15,11 +17,14 @@ I use **Excel, SQL and Power BI** to clean data, uncover patterns and turn analy
 * 🧠 Behavioural data
 * 🔬 Research & data storytelling
 
-## 🛠️ Tools
+## 🛠️ Tools & Skills
 
-`Excel` `SQL` `MySQL` `Power BI` `DAX`
-
-## 📊 Featured Projects
+📊 **Excel**
+🗄️ **SQL / MySQL**
+📈 **Power BI**
+🔢 **DAX**
+🧹 **Data Cleaning & Analysis**
+📌 **KPI Reporting & Dashboards**
 
 ## 📊 Featured Projects
 

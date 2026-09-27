@@ -21,14 +21,19 @@ I use **Excel, SQL and Power BI** to clean data, uncover patterns and turn analy
 
 ## 📊 Featured Projects
 
-### Employee Exit Analysis
+## 📊 Featured Projects
+
+### 👥 [Employee Exit Analysis](https://github.com/msotwanathela-png/Employee_exit_analysis)
 
 Analysed employee turnover and exit patterns using **Excel, SQL and Power BI**.
 
-### FMCG Sales, Marketing & Profitability Analysis
+**2,404 employees • 52.2% exit rate**
+
+### 🛒 [FMCG Sales, Marketing & Profitability Analysis](https://github.com/msotwanathela-png/Fmcg_sales_analysis)
 
 Analysed **18,240 records** to explore revenue, profitability, marketing spend and sales trends using **MySQL and Power BI**.
 
+**$14.45M revenue • $3.31M profit • 19.87% average margin**
 ---
 
 ## 🎯 Currently
